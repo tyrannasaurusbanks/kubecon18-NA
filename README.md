@@ -66,6 +66,5 @@
 | Lightning Talk: Labels in Prometheus Alerts: Think Twice Before Using Them - Elena Morozova, Weaveworks | [Slides](https://schd.ws/hosted_files/kccna18/e7/Labels%20in%20Prometheus%20Alerts_Elena%20Morozova.pdf) | [Video](https://youtube.com/watch?v=F7zNv6qhYO4) |
 | Lightning Talk: Behind The Scenes: Kubernetes Release Notes Tips & Tricks - Mike Arpaia, Kolide | [Slides](https://schd.ws/hosted_files/kccna18/b4/Kubernetes%20Release%20Notes%20Tips%20and%20Tricks.pdf) | [Video](https://youtube.com/watch?v=n62oPohOyYs) |
 | Lightning Talk: The Future of Humans in a World of Automation - Kendall Miller, ReactiveOps | [Slides](https://schd.ws/hosted_files/kccna18/cf/Future%20of%20Humans%20in%20a%20world%20of%20automation.pdf) | [Video](https://youtube.com/watch?v=JdqFy7ykPuQ) |
-
 | Tutorial: Getting Your Hands Dirty with Knative - Bas Tichelaar & Adé Mochtar, Instruqt | [Slides] | [Video](https://youtube.com/watch?v=Xi9oYTR710E) |
 | Tututorial: Building Security into Kubernetes Deployment Pipelines – Andrew Martin & Pi Unnerup, ControlPlane; Michael Hough & Liam White, IBM | [Slides] | [Video](https://youtube.com/watch?v=flC9jDFks8k) | 
