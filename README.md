@@ -4,7 +4,7 @@
 | Topic        | Presentation          | Video  |
 | ------------- |:-------------:| -----:|
 | Keynote: Helm Update - Michelle Noorali, Senior Software Engineer, Microsoft | [Slides](https://schd.ws/hosted_files/kccna18/ce/helm%20project%20update.pdf) | [video](https://youtube.com/watch?v=UFVaSc2gFnI) |
-| Keynote: High Reliability Infrastructure Migrations - Julia Evans, Software Engineer, Stripe | [Slides](https://schd.ws/hosted_files/kccna18/46/julia%20evans%20talk.pdf) | [video](https://youtube.com/watch?v=obB2IvCv-K0)|
+|~~Keynote: High Reliability Infrastructure Migrations - Julia Evans, Software Engineer, Stripe~~| [Slides](https://schd.ws/hosted_files/kccna18/46/julia%20evans%20talk.pdf) | [video](https://youtube.com/watch?v=obB2IvCv-K0)|
 | Keynote: Developing Kubernetes Services at Airbnb Scale - Melanie Cebula, Software Engineer, Airbnb | [Slides](https://schd.ws/hosted_files/kccna18/1f/kubecon%202018.pdf) | [video](https://youtube.com/watch?v=ytu3aUCwlSg) |
 | Keynote: Maturing Kubernetes Operators - Rob Szumski | [Slides](https://schd.ws/hosted_files/kccna18/16/Talk_%20KubeCon%20Operators%202018.pdf) | [video](https://youtube.com/watch?v=kld1Fi8RrRQ)|
 | Clusters All the Way Down: Crazy Multi-cluster Topologies - Matt Caulfield, Cisco | Slides | [video](https://youtube.com/watch?v=-gPnYTI70FE)|
