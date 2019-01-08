@@ -67,3 +67,19 @@
 | Lightning Talk: The Future of Humans in a World of Automation - Kendall Miller, ReactiveOps | [Slides](https://schd.ws/hosted_files/kccna18/cf/Future%20of%20Humans%20in%20a%20world%20of%20automation.pdf) | [Video](https://youtube.com/watch?v=JdqFy7ykPuQ) |
 | Tutorial: Getting Your Hands Dirty with Knative - Bas Tichelaar & Adé Mochtar, Instruqt | [Slides] | [Video](https://youtube.com/watch?v=Xi9oYTR710E) |
 | Tututorial: Building Security into Kubernetes Deployment Pipelines – Andrew Martin & Pi Unnerup, ControlPlane; Michael Hough & Liam White, IBM | [Slides] | [Video](https://youtube.com/watch?v=flC9jDFks8k) | 
+
+##  Observability 
+
+
+| Topic        | Presentation          | Video  |
+| ------------- |:-------------:| -----:|
+| On the OSS Path to Full Observability with Grafana - David Kaltschmidt, Grafana Labs | [Slides] | [Video](https://youtube.com/watch?v=tpJRG_ijKe0) |
+| Water, Water, Everywhere: Making Kubernetes Audit Logs Potable - Kate Kuchin, Heptio | [Slides](https://schd.ws/hosted_files/kccna18/06/kubecon%20-%20making%20sense%20of%20audit.pdf) | [Video](https://youtube.com/watch?v=7dJiagat4FI) |
+| Observability is the Key Tenet of Running a Multi-Tenant K8s Environment - Thom McCann & Amreth Chandrasehar, T-Mobile | [Slides](https://schd.ws/hosted_files/kccna18/1b/kubecon_2018_observability_thommccann_amreth.pdf) | [Video](https://youtube.com/watch?v=mBE3Mjo9RRg) | 
+| Three Pillars, Zero Answers: We Need to Rethink Observability - Ben Sigelman, LightStep | [Slides](https://schd.ws/hosted_files/kccna18/bf/Three%20Pillars%20with%20Zero%20Answers%20-%20A%20New%20Observability%20Scorecard%20%28Kubecon%20Seattle%202018%29.pdf) | [Video](https://youtube.com/watch?v=EJV_CgiqlOE) |
+| Audit in Kubernetes, the Future is Here - Stefan Schimanski & Maciej Szulik, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/d3/Audit%20in%20Kubernetes%2C%20the%20Future%20is%20Here.pdf) | [Video](https://youtube.com/watch?v=Up1qgVIzoVM) |
+| Do it Live: Measuring your Applications in Production - Jason Keene, Pivotal | [Slides](https://schd.ws/hosted_files/kccna18/c6/doitlive.pdf) | [Video](https://youtube.com/watch?v=ExsLZu3iao8) | 
+| ~~Monitor the World: Meaningful Metrics for Containerized Apps and Clusters - Nicholas Turner, Amazon & Nic Cope, Planet Labs | [Slides](https://schd.ws/hosted_files/kccna18/21/KubeCon_2018_NA_MonitorTheWorld_combined_opt.pdf) | [Video](https://www.youtube.com/watch?v=HYDojVW9YtU)~~ |
+| Visualise Cluster Connectivity with Goldpinger; Smash it with PowerfulSeal - Mikolaj Pawlikowski, Bloomberg | [Slides] | [Video](https://www.youtube.com/watch?v=DSFxRz_0TU4) | 
+| Sharded and Federated Prometheus Servers to Monitor Distributed Databases - Jun Li & Viswa Vutharkar, eBay | [Slides](https://schd.ws/hosted_files/kccna18/cf/KubeCon_Sharded.And.Federated.PrometheusCluster.Version.12.pdf) | [Video](https://www.youtube.com/watch?v=YVj_aqUbpYs) |
+| Collecting Operational Metrics for a Cluster with 5,000 Namespaces - Rob Szumski & Chance Zibolski, Red Hat | [Slides](https://schd.ws/hosted_files/kccna18/a2/KubeCon-2018-Operator-Metering.pdf) | [Video](https://www.youtube.com/watch?v=JHmWRBWPKog) | 
